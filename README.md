@@ -30,11 +30,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   </a>
 </p>
-
----
-
-### GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omorros&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorros&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
-</p>
