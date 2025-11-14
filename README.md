@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+Oriol+Morros;Software+Engineer+student)](https://git.io/typing-svg)
 
-
+---
 
 - I'm a **Software Engineering student** @ **ARU (Cambridge)**  
 - I enjoy working on code, solving problems and implementing **AI & ML**
