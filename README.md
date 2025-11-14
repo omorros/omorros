@@ -1,7 +1,7 @@
 
 
 
-- I'm a **Software Engineering student** at **Anglia Ruskin University (Cambridge)**  
+- I'm a **Software Engineering student** @ **ARU (Cambridge)**  
 - I love building **AI & ML projects**, especially in **Python, Java, and SQL**
 - Currently working on: [SmartFoodAI](https://github.com/omorros/SmartFoodAI) – an AI food expiry tracker  
 - Learning more about **deep learning**, **data pipelines**, and **cloud deployment**
