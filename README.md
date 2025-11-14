@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=60&lines=Hey%2C+I'm+Oriol+Morros;Software+Engineering+Student+%40+ARU)](https://git.io/typing-svg)
 
-- I'm a **Software Engineering student** @ **ARU (Cambridge)**  
-- I enjoy working on code, solving problems and implementing **AI & ML**
+- I'm a **Software Engineering student** at **ARU (Cambridge)**  
+- I enjoy working on code, solving problems, and applying AI & ML to real-world challenges.
 - Currently working on: [SmartFoodAI](https://github.com/omorros/SmartFoodAI) – an AI food expiry tracker  
 - Learning more about **software engineering**, **deep learning**, and **cloud deployment**
 - You can reach me at: [oriol.morros@gmail.com](mailto:oriol.morros@gmail.com)
@@ -31,3 +31,10 @@
   </a>
 </p>
 
+---
+
+### GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omorros&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorros&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
+</p>
