@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=60&lines=Hey%2C+I'm+Oriol+Morros;Software+Engineering+Student+%40+ARU)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=60&lines=Hey%2C+I'm+Oriol+Morros;Software+Engineering+Student+%40+ARU)
 
 - I'm a **Software Engineering student** at **ARU (Cambridge)**  
 - I enjoy working on code, solving problems, and applying AI & ML to real-world challenges.
