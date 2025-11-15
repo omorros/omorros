@@ -3,7 +3,7 @@
 - I'm a **Software Engineering student** at **ARU (Cambridge)**  
 - I enjoy working on code, solving problems, and applying AI & ML to real-world challenges.
 - Learning more about **software engineering**, **deep learning**, and **cloud deployment**
-- You can reach me at: [oriol.morros@gmail.com](mailto:oriol.morros@gmail.com)
+- You can reach me at: [oriol.morros@gmail.com](mailto:oriolmorros25@gmail.com)
 - Fun fact: I love **basketball, working out, and cooking**
 
 ---
