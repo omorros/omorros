@@ -1,36 +1,30 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=60&lines=Hey%2C+I'm+Oriol+Morros;Software+Engineering+Student+%40+ARU)
+# Hi, I'm Oriol Morros
 
-- I'm a **Software Engineering student** at **ARU (Cambridge)**  
-- I enjoy working on code, solving problems, and applying AI & ML to real-world challenges.
-- Learning more about **software engineering**, **deep learning**, and **cloud deployment**
-- You can reach me at: [oriolmorros25@gmail.com](mailto:oriolmorros25@gmail.com)
-- Fun fact: I love **basketball, working out, and cooking**
+**Software Engineering Student @ ARU (Cambridge)**
 
----
+## About Me
 
-### Languages and Tools  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+Software Engineering student passionate about building software, problem-solving, and applying AI/ML to real-world challenges. Currently exploring deep learning and cloud deployment.
 
+## Tech Stack
 
-</p>
+![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-333?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-333?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=white)
 
----
+## Projects
 
-### Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/oriolmorros" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/omorros" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  </a>
-</p>
+**[bk-shoot](https://github.com/omorros/bk-shoot)** — Low-cost IoT device that detects basketball makes/misses in real time using sensor fusion, paired with an Android app for live stats
+
+**[SnapShelf](https://github.com/omorros/SnapShelf)** — Mobile grocery tracker with barcode scanning, expiry reminders, and recipe recommendations to reduce food waste
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oriolmorros)
+[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:oriolmorros25@gmail.com)
