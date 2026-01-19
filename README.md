@@ -14,8 +14,15 @@ Software Engineering student passionate about building software, problem-solving
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-333?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-333?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-333?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=white)
 
 ## Projects
