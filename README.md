@@ -28,9 +28,9 @@ Software Engineering student passionate about building software, problem-solving
 
 ## Projects
 
-**[bk-shoot](https://github.com/omorros/bk-shoot)** — Low-cost IoT device that detects basketball makes/misses in real time using sensor fusion, paired with an Android app for live stats
-
 **[SnapShelf](https://github.com/omorros/SnapShelf)** — Mobile grocery tracker with barcode scanning, expiry reminders, and recipe recommendations to reduce food waste
+
+**[bk-shoot](https://github.com/omorros/bk-shoot)** — Low-cost IoT device that detects basketball makes/misses in real time using sensor fusion, paired with an Android app for live stats
 
 ## Connect
 
