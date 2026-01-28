@@ -34,5 +34,6 @@ Software Engineering student passionate about building software, problem-solving
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/Website-333?style=flat-square&logo=safari&logoColor=white)](https://omorros.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oriolmorros)
 [![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:oriolmorros25@gmail.com)
