@@ -32,6 +32,10 @@ Software Engineering student passionate about building software, problem-solving
 
 **[bk-shoot](https://github.com/omorros/bk-shoot)** — Low-cost IoT device that detects basketball makes/misses in real time using sensor fusion, paired with an Android app for live stats
 
+## Open Source Contributions
+
+**[django-crm](https://github.com/DjangoCRM/django-crm)** — Added unit tests for the `reload_field` AJAX view, covering authentication, department filtering, signature preview, and response validation ([PR #388](https://github.com/DjangoCRM/django-crm/pull/388))
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-333?style=flat-square&logo=safari&logoColor=white)](https://omorros.com)
