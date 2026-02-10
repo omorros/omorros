@@ -36,6 +36,8 @@ Software Engineering student passionate about building software, problem-solving
 
 **[django-crm](https://github.com/DjangoCRM/django-crm)** — Added unit tests for the `reload_field` AJAX view, covering authentication, department filtering, signature preview, and response validation ([PR #388](https://github.com/DjangoCRM/django-crm/pull/388))
 
+**[PINCE](https://github.com/korcankaraokcu/PINCE)** — Fixed a bug where arrow keys wouldn't scroll the hex dump view in Memory Viewer by adding a `scroll_requested` signal to `QHexView` and connecting it to load adjacent memory rows, also fixed selection highlight not following the current cell after scrolling ([PR #312](https://github.com/korcankaraokcu/PINCE/pull/312))
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-333?style=flat-square&logo=safari&logoColor=white)](https://omorros.com)
