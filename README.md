@@ -38,6 +38,8 @@ Software Engineering student passionate about building software, problem-solving
 
 **[PINCE](https://github.com/korcankaraokcu/PINCE)** — Fixed a bug where arrow keys wouldn't scroll the hex dump view in Memory Viewer by adding a `scroll_requested` signal to `QHexView` and connecting it to load adjacent memory rows, also fixed selection highlight not following the current cell after scrolling ([PR #312](https://github.com/korcankaraokcu/PINCE/pull/312))
 
+**[openalgo](https://github.com/marketcalls/openalgo)** — Added `aria-label` attributes to inline edit inputs across admin pages for WCAG accessibility compliance ([PR #899](https://github.com/marketcalls/openalgo/pull/899)), and added visible error feedback with toast notifications and inline error messages to the Search component for failed API calls ([PR #900](https://github.com/marketcalls/openalgo/pull/900))
+
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-333?style=flat-square&logo=safari&logoColor=white)](https://omorros.com)
