@@ -34,11 +34,9 @@ Software Engineering student passionate about building software, problem-solving
 
 ## Open Source Contributions
 
-**[django-crm](https://github.com/DjangoCRM/django-crm)** — Added unit tests for the `reload_field` AJAX view, covering authentication, department filtering, signature preview, and response validation ([PR #388](https://github.com/DjangoCRM/django-crm/pull/388))
-
-**[PINCE](https://github.com/korcankaraokcu/PINCE)** — Fixed a bug where arrow keys wouldn't scroll the hex dump view in Memory Viewer by adding a `scroll_requested` signal to `QHexView` and connecting it to load adjacent memory rows, also fixed selection highlight not following the current cell after scrolling ([PR #312](https://github.com/korcankaraokcu/PINCE/pull/312))
-
-**[openalgo](https://github.com/marketcalls/openalgo)** — Added `aria-label` attributes to inline edit inputs across admin pages for WCAG accessibility compliance ([PR #899](https://github.com/marketcalls/openalgo/pull/899)), and added visible error feedback with toast notifications and inline error messages to the Search component for failed API calls ([PR #900](https://github.com/marketcalls/openalgo/pull/900))
+- **DjangoCRM/django-crm** — Added automated tests for the `reload_field` AJAX view, covering auth, filtering, preview output, and response validation. [PR #388](https://github.com/DjangoCRM/django-crm/pull/388)
+- **korcankaraokcu/PINCE** — Fixed arrow-key scrolling in the hex dump memory viewer and ensured selection stays in sync when scrolling past boundaries. [PR #312](https://github.com/korcankaraokcu/PINCE/pull/312)
+- **marketcalls/openalgo** — Improved admin UX: added dynamic accessibility labels for inline-edit inputs and implemented clear Search API error handling (toast + inline message). [PR #899](https://github.com/marketcalls/openalgo/pull/899) · [PR #900](https://github.com/marketcalls/openalgo/pull/900)
 
 ## Connect
 
