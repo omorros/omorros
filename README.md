@@ -33,7 +33,7 @@ Software Engineering student passionate about building software, problem-solving
 
 ## Open Source Contributions
 
-Check out my open-source contributions [here](https://github.com/omorros/open-source).
+Check out my [open-source contributions](https://github.com/omorros/open-source).
 
 ## Connect
 
