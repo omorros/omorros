@@ -28,6 +28,7 @@ Software Engineering student passionate about building software, problem-solving
 
 ## Open Source Contributions
 
+Selected merged pull requests that show how I work in real codebases: debugging unfamiliar systems, writing tests, improving UX/accessibility, and shipping changes through review.
 Check out my [open-source contributions](https://github.com/omorros/open-source).
 
 ## Connect
