@@ -26,11 +26,6 @@ Software Engineering student passionate about building software, problem-solving
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333?style=flat-square&logo=linux&logoColor=white)
 
-## Projects
-
-- **[SnapShelf](https://github.com/omorros/SnapShelf)** — Mobile grocery tracker with barcode scanning, expiry reminders, and recipe recommendations to reduce food waste
-- **[bk-shoot](https://github.com/omorros/bk-shoot)** — Low-cost IoT device that detects basketball makes/misses in real time using sensor fusion, paired with an Android app for live stats
-
 ## Open Source Contributions
 
 Check out my [open-source contributions](https://github.com/omorros/open-source).
