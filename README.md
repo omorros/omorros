@@ -33,9 +33,7 @@ Software Engineering student passionate about building software, problem-solving
 
 ## Open Source Contributions
 
-- **[DjangoCRM/django-crm](https://github.com/DjangoCRM/django-crm)** — Added automated tests for the `reload_field` AJAX view, covering auth, filtering, preview output, and response validation. [PR #388](https://github.com/DjangoCRM/django-crm/pull/388)
-- **[korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE)** — Fixed arrow-key scrolling in the hex dump memory viewer and ensured selection stays in sync when scrolling past boundaries. [PR #312](https://github.com/korcankaraokcu/PINCE/pull/312)
-- **[marketcalls/openalgo](https://github.com/marketcalls/openalgo)** — Improved admin UX: added dynamic accessibility labels for inline-edit inputs and implemented clear Search API error handling (toast + inline message). [PR #899](https://github.com/marketcalls/openalgo/pull/899) · [PR #900](https://github.com/marketcalls/openalgo/pull/900)
+Check out my open-source contributions [here](https://github.com/omorros/open-source).
 
 ## Connect
 
