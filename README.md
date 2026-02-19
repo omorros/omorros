@@ -28,9 +28,9 @@ Software Engineering student passionate about building software, problem-solving
 
 ## Open Source Contributions
 
-Merged pull requests that show how I work in real codebases: debugging unfamiliar systems, writing tests, improving UX/accessibility, and shipping changes through review. Currently contributing to [**IBM/mcp-context-forge**](https://github.com/IBM/mcp-context-forge)
+Merged pull requests that show how I work in real codebases: debugging unfamiliar systems, writing tests, improving UX/accessibility, and shipping changes through review. Currently contributing to: [**IBM/mcp-context-forge**](https://github.com/IBM/mcp-context-forge)
 
-Check out my [open-source contributions](https://github.com/omorros/open-source).
+Check out all my [open-source contributions](https://github.com/omorros/open-source).
 
 ## Connect
 
