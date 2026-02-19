@@ -4,7 +4,9 @@
 
 ## About Me
 
-Software Engineering student passionate about building software, problem-solving, and applying AI/ML to real-world challenges. Currently exploring deep learning and cloud deployment.
+I'm a Software Engineering student originally from Barcelona. I enjoy building things that are actually useful to me, from full-stack apps to IoT devices with sensor fusion, and I'm currently diving deeper into AI, software engineering, and cloud computing.
+
+Outside of code, basketball has been my favourite sport for as long as I can remember. I also spend a lot of time at the gym, enjoy cooking, and play chess whenever I have some free time.
 
 ## Tech Stack
 
