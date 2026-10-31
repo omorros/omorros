@@ -9,8 +9,6 @@ Originally from Barcelona, now living in London. I never really stop building, f
 
 I'm going deeper into AI engineering and regularly join hackathons to meet people, build projects, try new tools, and discover what's happening across the startup ecosystem.
 
-Outside of code, basketball has been my favourite sport for as long as I can remember. I also spend time at the gym, enjoy cooking, and play chess whenever I have some free time.
-
 <p align="center">Read some of my stories away from the keyboard:</p>
 
 <div align="center">
@@ -43,11 +41,9 @@ Outside of code, basketball has been my favourite sport for as long as I can rem
 - 🏆 **{Tech: Europe} × VEED** — Overall Winner & Best Use of fal · [Lantern](https://omorros.com/projects/lantern)
 - 🏆 **Unicorn Mafia × Techbible** — Overall Winner · [WILDSCAN](https://omorros.com/projects/wildscan)
 - 🏆 **On-Device Agent Hackathon** — Cosine & EXO Labs Track Winner · [OffBabel](https://omorros.com/projects/offbabel)
-- 🏆 **Superlinked × Alibaba Cloud Qwen** — Track Winner · Echo
-- 🏆 **Real-World Agents Hackathon** — People's Choice · Hamyway City
-- 🏆 **Tokens LDN Multi-Agent Hackathon** — Best Use of Tavily, 1st Place · Basket
-
-[Projects and hackathon results →](https://omorros.com/hackathons)
+- 🏆 **Superlinked × Alibaba Cloud Qwen** — Track Winner · [Echo](https://omorros.com/projects/echo)
+- 🏆 **Real-World Agents Hackathon** — People's Choice · [Hamyway City](https://omorros.com/projects/hamyway-city)
+- 🏆 **Tokens LDN Multi-Agent Hackathon** — Best Use of Tavily, 1st Place · [Basket](https://omorros.com/projects/basket)
 
 ## Open source
 
